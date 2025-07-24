@@ -34,6 +34,13 @@ Used machine learning models to predict churn:
 
 - Best performing model likely to be XGBoost or Random Forest based on typical churn datasets.
 
+## Results (Expected or Typical)
+
+- Accuracy: Often around 80–85%
+- Recall: High for churners to avoid losing customers
+- Feature Importance: Contract type, tenure, internet service, and monthly charges are strong predictors
+
+
 ## Real-Time Benefits
 
 🔹 For Telecom/Service Providers:
@@ -54,9 +61,4 @@ Used machine learning models to predict churn:
 1. Understand which services lead to dissatisfaction
 2. Improve those services or offer alternatives
 
-## Results (Expected or Typical)
-
-- Accuracy: Often around 80–85%
-- Recall: High for churners to avoid losing customers
-- Feature Importance: Contract type, tenure, internet service, and monthly charges are strong predictors
 
