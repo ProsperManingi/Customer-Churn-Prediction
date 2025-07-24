@@ -34,6 +34,26 @@ Used machine learning models to predict churn:
 
 - Best performing model likely to be XGBoost or Random Forest based on typical churn datasets.
 
+## Real-Time Benefits
+
+🔹 For Telecom/Service Providers:
+*Proactively prevent churn by targeting at-risk customers with:
+1. Discounts
+2. Better plans
+3. Loyalty rewards
+
+🔹 Financial Benefits:
+1. Reduce customer acquisition costs (which are higher than retention costs)
+2. Improve lifetime value of customers
+
+🔹 Operational Efficiency:
+1. Target marketing efforts more precisely
+2. Reduce unnecessary spending on customers unlikely to churn
+
+🔹 Strategic Planning:
+1. Understand which services lead to dissatisfaction
+2. Improve those services or offer alternatives
+
 ## Results (Expected or Typical)
 
 - Accuracy: Often around 80–85%
