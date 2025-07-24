@@ -1,7 +1,6 @@
 # Customer Churn Prediction Models
 
-<img width="1348" height="731" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/3a41598d-7bcf-4168-9b6f-2ece1dc5bffb" />
-
+<img width="1348" height="684" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/63ddb48f-5e2e-4789-9b8a-7ed186e6372b" />
 
 ## Data Cleaning & Feature Engineering
 
