@@ -43,7 +43,7 @@ Used machine learning models to predict churn:
 ## Real-Time Benefits
 
 🔹 For Telecom/Service Providers:
-*Proactively prevent churn by targeting at-risk customers with:
+Proactively prevent churn by targeting at-risk customers with:
 1. Discounts
 2. Better plans
 3. Loyalty rewards
